@@ -106,8 +106,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Supporting meta-structures to maintain the underlying frameworks that enable seamless operations across infrastructures.
-<br>
-<br>
+
 </li>
 </ul>
    </td>
@@ -138,7 +137,6 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Command line interfaces
 <br><br>
-<br>
 <br>
 <br>
 <br>
@@ -281,12 +279,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Expertise in networking protocols for configuring network settings, firewalls, and connectivity.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br>
 
 <br>
 <br>
@@ -355,7 +348,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>More flexibility and customizability (especially compared to Microsoft Systems Center), allowing tailored configurations and automation to meet specific needs and requirements.
-<br>
+
 
 <br>
 
@@ -376,14 +369,8 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Lack of familiarity with Python can prevent users from taking full advantage of the tool's customization potential.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
+
 </li>
 </ul>
    </td>
@@ -523,9 +510,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Make informed decisions and optimize IT infrastructure management processes.
-<br>
-<br>
-<br>
+<br><br><br>
 
 
 </li>
@@ -607,7 +592,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Meaningful projects that allow opportunities to apply newfound knowledge in practical scenarios, reinforcing the learning experience.
 <br>
-<br>
+<br><br>
 </li>
 </ul>
    </td>
@@ -625,7 +610,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Fear of breaking something within a system or unintentionally disrupting configurations.
-<br>
+<br><br>
 </li>
 </ul>
    </td>
