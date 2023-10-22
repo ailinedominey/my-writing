@@ -136,7 +136,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Command line interfaces
-<br><br><br><br>
+<br><br><br>
 
 
 
