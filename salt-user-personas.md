@@ -255,7 +255,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Implementing security measures and adhering to compliance standards.
-<br><br>
+
 
 
 
@@ -349,8 +349,6 @@ These user personas are created from user interviews and represent distinct Salt
 <li>More flexibility and customizability (especially compared to Microsoft Systems Center), allowing tailored configurations and automation to meet specific needs and requirements.
 
 
-<br>
-
 
 </li>
 </ul>
@@ -368,7 +366,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Lack of familiarity with Python can prevent users from taking full advantage of the tool's customization potential.
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 </li>
 </ul>
