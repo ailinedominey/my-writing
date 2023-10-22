@@ -57,8 +57,6 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Context for use cases, going beyond procedural steps, that provide a holistic perspective on deployment and configuration management processes.
-
-
 </li>
 </ul>
    </td>
@@ -78,17 +76,20 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 
+</li>
 </ul>
    </td>
   </tr>
   <tr>
    <td><strong>Use case</strong>
    </td>
-   <td><strong>Common competencies</strong>
+   <td><strong>Common Competencies</strong>
    </td>
   </tr>
   <tr>
    <td>
+<ul>
+
 <li>Writing states to define and manage the desired configurations of systems effectively.
 <br>
 <br>
@@ -141,7 +142,9 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 <br>
 <br>
 </li>
@@ -360,6 +363,7 @@ These user personas are created from user interviews and represent distinct Salt
 <li>More flexibility and customizability (especially compared to Microsoft Systems Center), allowing tailored configurations and automation to meet specific needs and requirements.
 <br>
 <br>
+
 
 </li>
 </ul>
