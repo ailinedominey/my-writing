@@ -89,7 +89,6 @@ These user personas are created from user interviews and represent distinct Salt
   </tr>
   <tr>
    <td>
-
 <li>Writing states to define and manage the desired configurations of systems effectively.
 <br>
 <br>
@@ -107,8 +106,9 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Supporting meta-structures to maintain the underlying frameworks that enable seamless operations across infrastructures.
 <br>
-
-
+<br>
+<br>
+<br>
 </li>
 </ul>
    </td>
@@ -141,6 +141,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <br>
+
 <br>
 <br>
 </li>
@@ -223,7 +224,8 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Distinguishing whether a system issue is related to Salt or unrelated delays resolutions.
-<br>
+
+
 <br>
 
 </li>
@@ -260,6 +262,8 @@ These user personas are created from user interviews and represent distinct Salt
 <li>Implementing security measures and adhering to compliance standards.
 <br>
 <br>
+<br>
+<br>
 
 
 </li>
@@ -281,6 +285,8 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Expertise in networking protocols for configuring network settings, firewalls, and connectivity.
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -350,11 +356,9 @@ These user personas are created from user interviews and represent distinct Salt
 <li>Uniformity across all systems, reducing variability and enhancing operational stability.
 <br>
 <br>
-<br>
-
-
 
 <li>More flexibility and customizability (especially compared to Microsoft Systems Center), allowing tailored configurations and automation to meet specific needs and requirements.
+<br>
 <br>
 
 </li>
@@ -463,14 +467,18 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Flexibility for efficient infrastructure scaling and seamless adaptation to evolving business needs.
-
+<br>
+<br>
 
 <li>Advanced orchestration capabilities to manage complex workflows and ensure efficient task execution.
-
+<br>
+<br>
 <li>Quicker and more customizable automation to streamline repetitive tasks and configurations with greater speed and precision.
-
+<br>
+<br>
 <li>Remote execution for workflows, enabling team members to manage systems from a distance effectively.
-
+<br>
+<br>
 <li>Straightforward installation process, prioritizing compatibility and ease of use by avoiding unnecessary complexity and the need for additional plug-ins.
 <br>
 <br>
@@ -481,12 +489,16 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Steeper learning curve when transitioning to Salt compared to Ansible in the early stages of adoption.
-
+<br>
+<br>
 <li>Translating Ansible knowledge to Salt concepts, especially concerning the use of agents.
-
+<br>
+<br>
 <li>More components to secure than agentless architecture.
-
+<br>
+<br>
 <li>Absence of backward compatibility, potentially impacting the ability to seamlessly integrate existing infrastructure with Salt.
+<br>
 <br>
 <br>
 <br>
@@ -508,9 +520,11 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Compare each tool, identifying similarities and differences between Ansible and Salt.
-
+<br>
+<br>
 <li>Expand knowledge by learning unique use cases for Salt, discovering how this tool can address diverse scenarios beyond previous Ansible experience.
-
+<br>
+<br>
 <li>Make informed decisions and optimize IT infrastructure management processes.
 <br>
 <br>
@@ -524,13 +538,15 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Proficiency in YAML for defining configurations and states in Salt.
-
-<li>Expertise in scripting languages such as Python or PowerShell to enhance automation capabilities.
-
-<li>Familiarity with version control systems like Git.
-
-<li>Comfort with command-line interfaces
 <br>
+<br>
+<li>Expertise in scripting languages such as Python or PowerShell to enhance automation capabilities.
+<br>
+<br>
+<li>Familiarity with version control systems like Git.
+<br>
+<br>
+<li>Comfort with command-line interfaces
 <br>
 
 <br>
@@ -587,9 +603,11 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Tutorials and relevant video resources that provide step-by-step instructions and visual aids that enhance understanding.
-
+<br>
+<br>
 <li>Guidance from experienced mentors to help navigate the complex landscape of configuration management at increasing levels of depth.
-
+<br>
+<br>
 <li>Meaningful projects that allow opportunities to apply newfound knowledge in practical scenarios, reinforcing the learning experience.
 <br>
 <br>
@@ -600,13 +618,16 @@ These user personas are created from user interviews and represent distinct Salt
 <ul>
 
 <li>Lacking awareness about which helpful features exist, not knowing what concepts to discover and how they relate within a broader context.
+<br>
+<br>
 
 <li>Keeping up with a steep learning curve and feeling overwhelmed by information overload.
-
-<li>Adjusting to additional new technology (besides Salt) and information that is constantly being introduced
-
-<li>Fear of breaking something within a system or unintentionally disrupting configurations.
 <br>
+<br>
+<li>Adjusting to additional new technology (besides Salt) and information that is constantly being introduced
+<br>
+<br>
+<li>Fear of breaking something within a system or unintentionally disrupting configurations.
 <br>
 </li>
 </ul>
