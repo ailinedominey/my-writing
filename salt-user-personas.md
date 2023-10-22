@@ -107,6 +107,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Supporting meta-structures to maintain the underlying frameworks that enable seamless operations across infrastructures.
 <br>
+<br>
 </li>
 </ul>
    </td>
@@ -136,8 +137,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Command line interfaces
-<br>
-
+<br><br>
 <br>
 <br>
 <br>
