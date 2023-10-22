@@ -366,7 +366,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Lack of familiarity with Python can prevent users from taking full advantage of the tool's customization potential.
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 </li>
 </ul>
