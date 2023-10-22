@@ -7,7 +7,7 @@ These user personas are created from user interviews and represent distinct Salt
 <table>
   <tr>
    <td colspan="2" >
-<h2>Architect Ari</h2>
+<h2>Architect Sally</h2>
 
 <strong>Perspective: DevOps architect, infrastructure engineer</strong>
    </td>
@@ -57,8 +57,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Context for use cases, going beyond procedural steps, that provide a holistic perspective on deployment and configuration management processes.
-<br>
-<br>
+
 
 </li>
 </ul>
@@ -73,15 +72,8 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <li>Interacting with a code base where the structure of the underlying API makes it challenging to discover information programmatically.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
-<br>
 </li>
 </ul>
    </td>
