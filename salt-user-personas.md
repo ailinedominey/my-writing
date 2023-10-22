@@ -107,9 +107,6 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Supporting meta-structures to maintain the underlying frameworks that enable seamless operations across infrastructures.
 <br>
-<br>
-<br>
-<br>
 </li>
 </ul>
    </td>
@@ -140,9 +137,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <li>Command line interfaces
 <br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -175,7 +170,6 @@ These user personas are created from user interviews and represent distinct Salt
 <li>Ensuring stability and availability for all systems and networks.
 
 <li>Implementing security measures to protect data, networks, and systems from threats.
-
 <li>Developing and executing data backup and disaster recovery plans to safeguard critical data in case of system failures.
 <br>
 <br>
@@ -265,8 +259,7 @@ These user personas are created from user interviews and represent distinct Salt
 <li>Implementing security measures and adhering to compliance standards.
 <br>
 <br>
-<br>
-<br>
+<br><br><br>
 
 
 </li>
@@ -288,6 +281,7 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 
 <li>Expertise in networking protocols for configuring network settings, firewalls, and connectivity.
+<br>
 <br>
 <br>
 <br>
@@ -362,6 +356,7 @@ These user personas are created from user interviews and represent distinct Salt
 
 <li>More flexibility and customizability (especially compared to Microsoft Systems Center), allowing tailored configurations and automation to meet specific needs and requirements.
 <br>
+
 <br>
 
 
@@ -384,7 +379,6 @@ These user personas are created from user interviews and represent distinct Salt
 <br>
 <br>
 <br>
-
 <br>
 <br>
 <br>
@@ -407,7 +401,6 @@ These user personas are created from user interviews and represent distinct Salt
 <li>Streamlining server builds, using Salt automation to swiftly provision and configure VMs.
 <br>
 <br>
-
 <li>Improving efficiency for software installations, verifying that the correct software versions and configurations are consistently applied to all target systems.
 <br>
 <br>
