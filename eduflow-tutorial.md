@@ -25,12 +25,14 @@ The goal of this tutorial is to get you started now, and encourage you to delve 
 
 For more comprehensive explanations or less common features, search Eduflow’s [Help Center](https://help.eduflow.com/en/).
 <br><br>
-## Getting Started:
+
+## Getting dtarted:
 Use your school district or organization email to access premium features. 
 
 Sign up or log into an account at [Eduflow](https://www.eduflow.com/). 
 <br><br>
-## Create a Course
+
+## Create a course
 1. Select **Create a course**
 2. Give your course a title
 3. Select **Add new** to create an activity or flow
