@@ -1,5 +1,5 @@
 
-# Eduflow tutorial
+# Create a course in Eduflow
 <br>
 This end-user tutorial is for educators who are new to Eduflow, an online learning management system. 
 <br>
