@@ -55,7 +55,6 @@ There are two ways to get students onto your course roster:
 
 
 * Share a course link
-<br>
 
 * Email invites 
 <br>
@@ -69,10 +68,8 @@ To send email invites in bulk, import a .csv file of your roster (names paired w
 ### Link Invitation
 
 1. Go to **Participants**
-<br>
 
 2. Copy the course URL link 
-<br>
 
 3. Share the link with students
 
@@ -81,13 +78,9 @@ To send email invites in bulk, import a .csv file of your roster (names paired w
 ### Email Group Invitations
 
 1. Select **Invite participants → Invite learners**
-<br>
-
 2. Go to “File import” tab
-<br>
 
 3. Upload .csv file with student names and emails 
-<br>
 
 4. Select **Add learners**
 <br>
@@ -115,6 +108,7 @@ Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-t
 ## Customize activities and flows
 
 Each activity or flow is customizable through its own settings. In these activity or flow-level settings, you will find general preferences within the **Rules** tab.  
+<br>
 <br>
 
 Within **Rules**, you can manage permissions and assignment guidelines:
@@ -145,10 +139,8 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 
 
 1. Find a student on the roster in **Participants**
-<br>
 
 2. Go to the individual settings for that student 
-<br>
 
 3. Select "log in as” 
 
