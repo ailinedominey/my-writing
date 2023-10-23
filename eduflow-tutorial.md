@@ -130,6 +130,7 @@ Within **Rules**, you can manage permissions and assignment guidelines:
     📑 **Note:** The Eduflow development team is working on a designated feature for instructors to switch to student view. See[ updates](https://eduflow.canny.io/).
 <br>
 <br>
+
 ## Evaluate Student Performance
 
 There are three ways to score student performance for activities and flows: quantitative (grade percentage range), qualitative (converted into grade points on a scale), and completion. You can assign and adjust grading criteria for each activity or flow. The **Summary** tab allows you to view and track student performance data.
