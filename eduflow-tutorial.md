@@ -1,8 +1,7 @@
 
 # Eduflow tutorial
-<br>
+
 This end-user tutorial is for educators who are new to Eduflow, an online learning management system. 
-<br>
 
 ## Introduction: 
 Eduflow automates the tedious parts of lesson planning, allowing you to focus your energy on designing quality learning content. Eduflow is built to simplify complex lesson units into lesson workflows, making learning content more accessible for students and convenient for teachers.
@@ -12,11 +11,11 @@ Eduflow automates the tedious parts of lesson planning, allowing you to focus yo
 With Eduflow, you will be able to:
 <br>
 
--**Craft student-centered learning experiences:** Project-based learning and workshop review functionalities enable virtual collaboration between peers and instructors. 
+- **Craft student-centered learning experiences:** Project-based learning and workshop review functionalities enable virtual collaboration between peers and instructors. 
 
--**Reinforce responsible collaboration skills:** Feature designs encourage students to offer varied, high-quality feedback using prompts, exemplars, and feedback evaluation posts, while instructors moderate for accountability in discussions and set assignment submission rules.
+- **Reinforce responsible collaboration skills:** Feature designs encourage students to offer varied, high-quality feedback using prompts, exemplars, and feedback evaluation posts, while instructors moderate for accountability in discussions and set assignment submission rules.
 
--**Choose your own level of creative control:** Flexible templates and workflows support both hands-off and detailed editing power.
+- **Choose your own level of creative control:** Flexible templates and workflows support both hands-off and detailed editing power.
 <br>
 ## About this tutorial: 
 The goal of this tutorial is to get you started now, and encourage you to delve deeper later. By following this guide, you'll create a functional online course to host a lesson or learning unit. 
@@ -33,7 +32,7 @@ Sign up or log into an account at [Eduflow](https://www.eduflow.com/).
 2. Give your course a title
 3. Select **Add new** to create an activity or flow
 
-        📑 Note: “Activities” are short, simple tasks. “Flows” have several built-in steps for exchanging teacher/peer feedback on assignments. 
+     📑 Note: “Activities” are short, simple tasks. “Flows” have several built-in steps for exchanging teacher/peer feedback on assignments. 
 
 4. In **Rules** tab, review activity guidelines and preferences
 
@@ -73,7 +72,7 @@ To send email invites in bulk, import a .csv file of your roster (names paired w
 Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-to-create-a-csv-file), [video tutorial](https://www.google.com/search?q=how+to+generate+csv+file&rlz=1C1CHBF_enUS960US960&oq=how+to+generate+csv+&aqs=chrome.0.0i512l3j69i57j0i512l6.11399j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7dcd030d,vid:_c37nEV65Os)
 
 
-    📑 Note: Once students confirm their enrollment in their email, their status will change from "pending" to "enrolled."
+ 📑 Note: Once students confirm their enrollment in their email, their status will change from "pending" to "enrolled."
 
 
 ### Add or remove participants manually
@@ -165,7 +164,7 @@ Choose whether to include or exclude completion activities in a student’s over
 
 
 
-    📑 Note: Students need to click “Mark as complete” for some activities to be considered complete. 
+  📑 Note: Students need to click “Mark as complete” for some activities to be considered complete. 
 
 
 
