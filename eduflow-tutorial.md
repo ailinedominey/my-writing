@@ -86,6 +86,10 @@ To send email invites in bulk, import a .csv file of your roster (names paired w
 <br>
 <br>
 
+![Screenshot 2023-10-22 at 7 55 43 PM](https://github.com/celestial-sailor/my-writing/assets/108352892/d37eb04d-384c-4d79-9c81-65776ffc2250)
+
+<br>
+
 Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-to-create-a-csv-file), [video tutorial](https://www.google.com/search?q=how+to+generate+csv+file&rlz=1C1CHBF_enUS960US960&oq=how+to+generate+csv+&aqs=chrome.0.0i512l3j69i57j0i512l6.11399j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7dcd030d,vid:_c37nEV65Os)
 
 <br>
@@ -108,11 +112,14 @@ Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-t
 ## Customize activities and flows
 
 Each activity or flow is customizable through its own settings. In these activity or flow-level settings, you will find general preferences within the **Rules** tab.  
-<br>
+
+![Screenshot 2023-10-22 at 8 00 50 PM](https://github.com/celestial-sailor/my-writing/assets/108352892/12c8f657-f313-4dbb-98ba-8b10948f2f38)
+
 <br>
 
 Within **Rules**, you can manage permissions and assignment guidelines:
 
+<br>
 
 * **Visibility**: hiding or making your activity or flow viewable to students
 <br>
@@ -157,7 +164,11 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 ## Evaluate student performance
 
 There are three ways to score student performance for activities and flows: quantitative (grade percentage range), qualitative (converted into grade points on a scale), and completion. You can assign and adjust grading criteria for each activity or flow. The **Summary** tab allows you to view and track student performance data.
-<br><br>
+<br>
+
+![Screenshot 2023-10-22 at 8 07 30 PM](https://github.com/celestial-sailor/my-writing/assets/108352892/9355be5c-5c15-47dc-a9a1-52e2bfd4688a)
+<br>
+<br>
 
 ### Scoring for quantitative work 
 
