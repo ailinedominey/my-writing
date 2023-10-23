@@ -26,7 +26,7 @@ The goal of this tutorial is to get you started now, and encourage you to delve 
 For more comprehensive explanations or less common features, search Eduflow’s [Help Center](https://help.eduflow.com/en/).
 <br><br>
 
-## Getting dtarted:
+## Getting started:
 Use your school district or organization email to access premium features. 
 
 Sign up or log into an account at [Eduflow](https://www.eduflow.com/). 
