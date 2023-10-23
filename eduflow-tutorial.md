@@ -131,7 +131,7 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 <br>
 <br>
 
-## Evaluate Student Performance
+## Evaluate student performance
 
 There are three ways to score student performance for activities and flows: quantitative (grade percentage range), qualitative (converted into grade points on a scale), and completion. You can assign and adjust grading criteria for each activity or flow. The **Summary** tab allows you to view and track student performance data.
 <br><br>
