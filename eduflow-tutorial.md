@@ -1,6 +1,6 @@
 
 # Eduflow tutorial
-
+<br>
 This end-user tutorial is for educators who are new to Eduflow, an online learning management system. 
 
 ## Introduction: 
@@ -17,16 +17,17 @@ With Eduflow, you will be able to:
 
 - **Choose your own level of creative control:** Flexible templates and workflows support both hands-off and detailed editing power.
 <br>
+<br>
 ## About this tutorial: 
 The goal of this tutorial is to get you started now, and encourage you to delve deeper later. By following this guide, you'll create a functional online course to host a lesson or learning unit. 
 
 For more comprehensive explanations or less common features, search Eduflow’s [Help Center](https://help.eduflow.com/en/).
-<br>
+<br><br>
 ## Getting Started:
 Use your school district or organization email to access premium features. 
 
 Sign up or log into an account at [Eduflow](https://www.eduflow.com/). 
-
+<br><br>
 ## Create a Course
 1. Select **Create a course**
 2. Give your course a title
@@ -36,7 +37,7 @@ Sign up or log into an account at [Eduflow](https://www.eduflow.com/).
 
 4. In **Rules** tab, review activity guidelines and preferences
 
-
+<br>
 
 ## Enroll students
 
@@ -49,37 +50,43 @@ There are two ways to get students onto your course roster:
 
 * Share a course link
 * Email invites 
+<br>
 
 To send email invites in bulk, import a .csv file of your roster (names paired with emails)
 
     🍏 Tip: You may invite others as co-teachers or teaching assistants when sending individual invites by email. 
 
-
+<br>
 
 ### Link Invitation
 
 1. Go to **Participants**
 2. Copy the course URL link 
 3. Share the link with students
-
+<br><br>
 ### Email Group Invitations
 
 1. Select **Invite participants → Invite learners**
 2. Go to “File import” tab
 3. Upload .csv file with student names and emails 
 4. Select **Add learners**
+<br>
+<br>
 
 Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-to-create-a-csv-file), [video tutorial](https://www.google.com/search?q=how+to+generate+csv+file&rlz=1C1CHBF_enUS960US960&oq=how+to+generate+csv+&aqs=chrome.0.0i512l3j69i57j0i512l6.11399j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7dcd030d,vid:_c37nEV65Os)
 
-
+<br>
  📑 Note: Once students confirm their enrollment in their email, their status will change from "pending" to "enrolled."
 
+<br>
 
 ### Add or remove participants manually
 
 1. Find students to add using the search bar on the **Participants** page.
 2. Once you see the student’s name in the results, go to the individual settings for the student to add them.
 
+<br>
+<br>
 
 ## Customize activities and flows
 
@@ -94,6 +101,9 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 * **Locking**: preventing students from submitting past-due activities
 * **Editing rights**: giving permission for students to edit their submissions
 * **Assign to a subset**: choose which students should be assigned to the activity 
+
+<br>
+<br>
 
 ## Preview a course as a student
 
@@ -110,17 +120,18 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 
 
     📑 Note: The Eduflow development team is working on a designated feature for instructors to switch to student view. See[ updates](https://eduflow.canny.io/).
-
+<br>
+<br>
 ## Evaluate Student Performance
 
 There are three ways to score student performance for activities and flows: quantitative (grade percentage range), qualitative (converted into grade points on a scale), and completion. You can assign and adjust grading criteria for each activity or flow. The **Summary** tab allows you to view and track student performance data.
+<br><br>
 
 ### Scoring for quantitative work 
 
 Activities with quantitative performance measures like quizes will auto-calculate a percentage result for each student. Counting a quiz as a completion grade is also an option.
 
-
-### 
+<br>
 
 
 ### Scoring for qualitative work
@@ -149,6 +160,7 @@ In an assigned flow, the score is an average between all evaluations at each ste
 
 
 
+<br>
 
 ### Scoring for completion
 
@@ -167,7 +179,8 @@ Choose whether to include or exclude completion activities in a student’s over
   📑 Note: Students need to click “Mark as complete” for some activities to be considered complete. 
 
 
-
+<br>
+<br>
 
 ## Integrate virtual meetings
 
@@ -182,7 +195,8 @@ To add a virtual meeting, you will first need to generate a meeting invite link 
 5. Select the blue checkmark ☑️ "Finish editing”
 
 
-
+<br>
+<br>
 
 ## Need more help?
 
