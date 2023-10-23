@@ -17,7 +17,7 @@ With Eduflow, you will be able to:
 - **Reinforce responsible collaboration skills:** Feature designs encourage students to offer varied, high-quality feedback using prompts, exemplars, and feedback evaluation posts, while instructors moderate for accountability in discussions and set assignment submission rules.
 
 - **Choose your own level of creative control:** Flexible templates and workflows support both hands-off and detailed editing power.
-<br>
+
 <br>
 
 ## About this tutorial: 
