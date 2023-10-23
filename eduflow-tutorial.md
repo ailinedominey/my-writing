@@ -55,6 +55,8 @@ There are two ways to get students onto your course roster:
 
 
 * Share a course link
+<br>
+
 * Email invites 
 <br>
 
@@ -67,14 +69,26 @@ To send email invites in bulk, import a .csv file of your roster (names paired w
 ### Link Invitation
 
 1. Go to **Participants**
+<br>
+
 2. Copy the course URL link 
+<br>
+
 3. Share the link with students
+
 <br><br>
+
 ### Email Group Invitations
 
 1. Select **Invite participants → Invite learners**
+<br>
+
 2. Go to “File import” tab
+<br>
+
 3. Upload .csv file with student names and emails 
+<br>
+
 4. Select **Add learners**
 <br>
 <br>
@@ -91,6 +105,8 @@ Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-t
 ### Add or remove participants manually
 
 1. Find students to add using the search bar on the **Participants** page.
+<br>
+
 2. Once you see the student’s name in the results, go to the individual settings for the student to add them.
 
 <br>
@@ -99,6 +115,7 @@ Learn how to generate a .csv file: [steps](https://csvloader.com/csv-guide/how-t
 ## Customize activities and flows
 
 Each activity or flow is customizable through its own settings. In these activity or flow-level settings, you will find general preferences within the **Rules** tab.  
+<br>
 
 Within **Rules**, you can manage permissions and assignment guidelines:
 
@@ -107,9 +124,17 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 <br>
 
 * **Prerequisites**: selecting an activity that must be completed before 
+<br>
+
 * **Deadlines**: setting timeframes for submission deadlines
+<br>
+
 * **Locking**: preventing students from submitting past-due activities
+<br>
+
 * **Editing rights**: giving permission for students to edit their submissions
+<br>
+
 * **Assign to a subset**: choose which students should be assigned to the activity 
 
 <br>
@@ -120,7 +145,11 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 
 
 1. Find a student on the roster in **Participants**
+<br>
+
 2. Go to the individual settings for that student 
+<br>
+
 3. Select "log in as” 
 
     ✅ You can view and navigate the course as the selected student.
@@ -131,7 +160,7 @@ Within **Rules**, you can manage permissions and assignment guidelines:
 
     📑 **Note:** The Eduflow development team is working on a designated feature for instructors to switch to student view. See[ updates](https://eduflow.canny.io/).
 <br>
-<br>
+<br><br>
 
 ## Evaluate student performance
 
