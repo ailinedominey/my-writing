@@ -16,12 +16,6 @@ Welcome to my writing collection. This repository consists of writing I have cre
    </td>
   </tr>
   <tr>
-   <td><a href="salt-user-personas.md">Salt user personas</a>
-   </td>
-   <td>Documentation tool
-   </td>
-   <td>These user personas are based on the results of user research for an open source assignment. The goal for these user personas is to guide improvements to The Salt Project’s docs landing page. 
-   </td>
   </tr>
   <tr>
    <td><a href="eduflow-tutorial.md">Create a course in Eduflow</a>
